@@ -1,0 +1,87 @@
+{
+  "courses": [
+    {
+      "name": "AWS Architect",
+      "category": "Cloud computing",
+      "price": 21000
+    },
+    {
+      "name": "Angular Certification Training",
+      "category": "Front End Dev",
+      "price": 10000
+    },
+    {
+      "name": "React Certification Training",
+      "category": "Front End Dev",
+      "price": 9000
+    },
+    {
+      "name": "Java",
+      "category": "Backend dev",
+      "price": 7000
+    }
+  ],
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "vanitha",
+      "email": "gmail@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "tdssdfsdf",
+      "email": "sfsdf@dfgfdg",
+      "id": 5
+    },
+    {
+      "email": "dsfsdf@hhhh",
+      "id": 6
+    },
+    {
+      "name": "hm",
+      "email": "dd@d",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "name": "fgdfg",
+      "email": "fgdfg@fgfdg",
+      "id": 9
+    },
+    {
+      "name": "dfgdfg",
+      "email": "dfsd@fdfgfg",
+      "id": 10
+    },
+    {
+      "name": "tdssdfsdf",
+      "email": "sfsdf@dfgfdg",
+      "id": 11
+    },
+    {
+      "name": "fghfgh",
+      "email": "ggfh@fgfg",
+      "id": 12
+    },
+    {
+      "name": "Vanitha",
+      "email": "abc@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "tdssdfsdf",
+      "email": "dsfsdf@hhhh",
+      "id": 14
+    }
+  ]
+}
